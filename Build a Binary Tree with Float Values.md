@@ -1,4 +1,4 @@
-# Ex. No: 15A - Deletion of a Node from a Binary Search Tree (BST) in Python
+# Ex. No: 15B - Deletion of a Node from a Binary Search Tree (BST) in Python
 
 ## AIM:
 To demonstrate how to delete a node from a Binary Search Tree while maintaining the BST property, and display the tree before and after deletion.
